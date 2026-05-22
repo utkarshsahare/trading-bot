@@ -1,1 +1,1 @@
-web: python zerodha_trading_bot.py
+worker: python zerodha_trading_bot.py
