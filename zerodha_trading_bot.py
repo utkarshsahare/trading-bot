@@ -31,8 +31,8 @@ except ImportError:
 # ==================== CONFIGURATION ====================
 
 # YOUR ZERODHA API CREDENTIALS (Get from https://developer.kite.trade/)
-API_KEY = "your_api_key_here"
-CLIENT_SECRET = "your_client_secret_here"
+API_KEY = "9wctg0ef6i2cf7w2"
+CLIENT_SECRET = "zr2d76iigls6782phvp9a7b7j4jxevl5"
 REQUEST_TOKEN = "get_from_login_url"  # Obtain after login
 
 # TRADING PARAMETERS
